@@ -48,47 +48,41 @@ profiles:
 
 interests:
   - Computers
-  - Nature
-  - Video Games
+  - Economics
 
 education:
-  - area: System Administration
-    institution: Linux Professional Institute
+  - area: Sample Subject
+    institution: Sample Institution
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: lorem ipsum dolor sit amet
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: Machine Learning
-    institution: Massachusetts Institute of Technology
+  - area: Sample Subject
+    institution: Sample Institution
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: lorem ipsum dolor sit amet
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Sample Position
+    company_name: Example Co
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Sample Position
+    company_name: Example Co
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 
 bio: I am a passionate software engineer with x years of working experience.
 
@@ -97,15 +91,15 @@ bio: I am a passionate software engineer with x years of working experience.
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Skill 1
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Skill 2
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Skill 3
         description: ''
         percent: 40
         icon: circle-stack
@@ -113,25 +107,25 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Hobby 1
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Hobby 2
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Hobby 3
         description: ''
         percent: 80
         icon: camera
 
 languages:
-  - name: English
+  - name: Persian
     percent: 100
-  - name: Chinese
+  - name: English
     percent: 75
-  - name: Portuguese
+  - name: German
     percent: 25
 
 # Awards.
@@ -139,31 +133,21 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
+  - title: Sample Title
     date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+    awarder: Sample Platform
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dictum ullamcorper dictum. Suspendisse varius ipsum at gravida porttitor. Mauris condimentum ut ligula eget sodales. In placerat scelerisque pulvinar.
+  - title: Sample Title
     date: '2023-07-01'
-    awarder: edX
-    icon: edx
+    awarder: Sample Platform
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dictum ullamcorper dictum. Suspendisse varius ipsum at gravida porttitor.
+  - title: Sample title
     date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+    awarder: Sample Platform
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dictum ullamcorper dictum. Suspendisse varius ipsum at gravida porttitor. Mauris condimentum ut ligula eget sodales.
 ---
 
 ## About Me

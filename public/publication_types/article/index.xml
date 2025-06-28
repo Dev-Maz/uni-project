@@ -13,18 +13,20 @@
     </image>
     
     <item>
-      <title>An example preprint / working paper</title>
+      <title>Sample Publication</title>
       <link>http://localhost:1313/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/preprint/</guid>
-      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;http://localhost:1313/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;h1 id=&#34;sample-heading-1&#34;&gt;Sample Heading 1&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Lorem ipsum dolor sit amet&lt;/strong&gt;, consectetur adipiscing elit. Praesent euismod, metus a varius viverra, elit arcu posuere lorem, vel euismod purus libero sed nunc. Nulla facilisi. Aliquam erat volutpat. Morbi in lacus vitae augue pharetra fermentum. Fusce nec nibh vitae magna cursus accumsan at nec justo.&lt;/p&gt;
+&lt;h2 id=&#34;sample-heading-2&#34;&gt;Sample Heading 2&lt;/h2&gt;
+&lt;p&gt;Integer at tristique magna. Pellentesque ac ex justo. &lt;strong&gt;Vestibulum ante ipsum primis&lt;/strong&gt; in faucibus orci luctus et ultrices posuere cubilia curae; Cras vehicula, nisl in sagittis hendrerit, magna libero sagittis ante, ac laoreet erat turpis non nisi. Sed pretium est id nunc euismod malesuada. Ut at ullamcorper nulla.&lt;/p&gt;
+&lt;h2 id=&#34;sample-heading-3&#34;&gt;Sample Heading 3&lt;/h2&gt;
+&lt;p&gt;Vivamus vitae faucibus justo. Sed nec ligula sed enim ultrices dapibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In nec libero non sem convallis pulvinar. &lt;em&gt;Morbi non porta nibh&lt;/em&gt;. Nunc accumsan tellus sit amet magna viverra, et dignissim lectus scelerisque.&lt;/p&gt;
+&lt;h2 id=&#34;sample-heading-4&#34;&gt;Sample Heading 4&lt;/h2&gt;
+&lt;p&gt;Mauris porttitor, augue a vehicula porttitor, arcu justo tincidunt felis, sed fringilla enim risus eget enim. Pellentesque sit amet lacus id tortor mattis fringilla sed id erat. Cras viverra nisi id lacus sodales, sed porttitor elit dapibus. Etiam et erat feugiat, iaculis metus ac, tempus quam.&lt;/p&gt;
+&lt;h2 id=&#34;sample-heading-5&#34;&gt;Sample Heading 5&lt;/h2&gt;
+&lt;p&gt;Suspendisse finibus, ante sit amet tincidunt euismod, ipsum sem feugiat mauris, a volutpat lacus leo at purus. Nam convallis, massa sed imperdiet accumsan, velit nisi sollicitudin arcu, vel sodales quam erat ut augue. Fusce facilisis augue ut lectus fermentum, sed placerat metus ullamcorper.&lt;/p&gt;
 </description>
     </item>
     

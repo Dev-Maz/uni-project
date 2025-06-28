@@ -1,13 +1,10 @@
 ---
-title: Pandas
+title: Project 1
 date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
-tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+external_link: '#'
+tags: Sample tag
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dictum ullamcorper dictum.
 
 <!--more-->

@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Sample Publication'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -25,16 +25,16 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: ''
+publication_short: ''
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Large Language Models
+  - Sample tag
 
 # Display this page in the Featured widget?
 featured: true
@@ -44,19 +44,18 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_pdf: '#'
+url_code: '#'
+url_dataset: '$'
+url_poster: '#'
+url_project: '#'
+url_slides: '#'
+url_source: '#'
+url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ''
   preview_only: false
 
@@ -76,12 +75,22 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+# Sample Heading 1
 
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
+**Lorem ipsum dolor sit amet**, consectetur adipiscing elit. Praesent euismod, metus a varius viverra, elit arcu posuere lorem, vel euismod purus libero sed nunc. Nulla facilisi. Aliquam erat volutpat. Morbi in lacus vitae augue pharetra fermentum. Fusce nec nibh vitae magna cursus accumsan at nec justo.
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+## Sample Heading 2
+
+Integer at tristique magna. Pellentesque ac ex justo. **Vestibulum ante ipsum primis** in faucibus orci luctus et ultrices posuere cubilia curae; Cras vehicula, nisl in sagittis hendrerit, magna libero sagittis ante, ac laoreet erat turpis non nisi. Sed pretium est id nunc euismod malesuada. Ut at ullamcorper nulla.
+
+## Sample Heading 3
+
+Vivamus vitae faucibus justo. Sed nec ligula sed enim ultrices dapibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In nec libero non sem convallis pulvinar. _Morbi non porta nibh_. Nunc accumsan tellus sit amet magna viverra, et dignissim lectus scelerisque.
+
+## Sample Heading 4
+
+Mauris porttitor, augue a vehicula porttitor, arcu justo tincidunt felis, sed fringilla enim risus eget enim. Pellentesque sit amet lacus id tortor mattis fringilla sed id erat. Cras viverra nisi id lacus sodales, sed porttitor elit dapibus. Etiam et erat feugiat, iaculis metus ac, tempus quam.
+
+## Sample Heading 5
+
+Suspendisse finibus, ante sit amet tincidunt euismod, ipsum sem feugiat mauris, a volutpat lacus leo at purus. Nam convallis, massa sed imperdiet accumsan, velit nisi sollicitudin arcu, vel sodales quam erat ut augue. Fusce facilisis augue ut lectus fermentum, sed placerat metus ullamcorper.

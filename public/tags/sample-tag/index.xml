@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sample Tag | John Doe</title>
+    <link>http://localhost:1313/tags/sample-tag/</link>
+      <atom:link href="http://localhost:1313/tags/sample-tag/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sample Tag</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Sample Tag</title>
+      <link>http://localhost:1313/tags/sample-tag/</link>
+    </image>
+    
+    <item>
+      <title>Project 1</title>
+      <link>http://localhost:1313/project/pandas/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pandas/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dictum ullamcorper dictum.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Project 2</title>
+      <link>http://localhost:1313/project/pytorch/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pytorch/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dictum ullamcorper dictum.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Project 3</title>
+      <link>http://localhost:1313/project/scikit/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/scikit/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dictum ullamcorper dictum.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sample Publication</title>
+      <link>http://localhost:1313/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/preprint/</guid>
+      <description>&lt;h1 id=&#34;sample-heading-1&#34;&gt;Sample Heading 1&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Lorem ipsum dolor sit amet&lt;/strong&gt;, consectetur adipiscing elit. Praesent euismod, metus a varius viverra, elit arcu posuere lorem, vel euismod purus libero sed nunc. Nulla facilisi. Aliquam erat volutpat. Morbi in lacus vitae augue pharetra fermentum. Fusce nec nibh vitae magna cursus accumsan at nec justo.&lt;/p&gt;
+&lt;h2 id=&#34;sample-heading-2&#34;&gt;Sample Heading 2&lt;/h2&gt;
+&lt;p&gt;Integer at tristique magna. Pellentesque ac ex justo. &lt;strong&gt;Vestibulum ante ipsum primis&lt;/strong&gt; in faucibus orci luctus et ultrices posuere cubilia curae; Cras vehicula, nisl in sagittis hendrerit, magna libero sagittis ante, ac laoreet erat turpis non nisi. Sed pretium est id nunc euismod malesuada. Ut at ullamcorper nulla.&lt;/p&gt;
+&lt;h2 id=&#34;sample-heading-3&#34;&gt;Sample Heading 3&lt;/h2&gt;
+&lt;p&gt;Vivamus vitae faucibus justo. Sed nec ligula sed enim ultrices dapibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In nec libero non sem convallis pulvinar. &lt;em&gt;Morbi non porta nibh&lt;/em&gt;. Nunc accumsan tellus sit amet magna viverra, et dignissim lectus scelerisque.&lt;/p&gt;
+&lt;h2 id=&#34;sample-heading-4&#34;&gt;Sample Heading 4&lt;/h2&gt;
+&lt;p&gt;Mauris porttitor, augue a vehicula porttitor, arcu justo tincidunt felis, sed fringilla enim risus eget enim. Pellentesque sit amet lacus id tortor mattis fringilla sed id erat. Cras viverra nisi id lacus sodales, sed porttitor elit dapibus. Etiam et erat feugiat, iaculis metus ac, tempus quam.&lt;/p&gt;
+&lt;h2 id=&#34;sample-heading-5&#34;&gt;Sample Heading 5&lt;/h2&gt;
+&lt;p&gt;Suspendisse finibus, ante sit amet tincidunt euismod, ipsum sem feugiat mauris, a volutpat lacus leo at purus. Nam convallis, massa sed imperdiet accumsan, velit nisi sollicitudin arcu, vel sodales quam erat ut augue. Fusce facilisis augue ut lectus fermentum, sed placerat metus ullamcorper.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sample Publication</title>
+      <link>http://localhost:1313/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper/</guid>
+      <description>&lt;h1 id=&#34;sample-heading-1&#34;&gt;Sample Heading 1&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Lorem ipsum dolor sit amet&lt;/strong&gt;, consectetur adipiscing elit. Praesent euismod, metus a varius viverra, elit arcu posuere lorem, vel euismod purus libero sed nunc. Nulla facilisi. Aliquam erat volutpat. Morbi in lacus vitae augue pharetra fermentum. Fusce nec nibh vitae magna cursus accumsan at nec justo.&lt;/p&gt;
+&lt;h2 id=&#34;sample-heading-2&#34;&gt;Sample Heading 2&lt;/h2&gt;
+&lt;p&gt;Integer at tristique magna. Pellentesque ac ex justo. &lt;strong&gt;Vestibulum ante ipsum primis&lt;/strong&gt; in faucibus orci luctus et ultrices posuere cubilia curae; Cras vehicula, nisl in sagittis hendrerit, magna libero sagittis ante, ac laoreet erat turpis non nisi. Sed pretium est id nunc euismod malesuada. Ut at ullamcorper nulla.&lt;/p&gt;
+&lt;h2 id=&#34;sample-heading-3&#34;&gt;Sample Heading 3&lt;/h2&gt;
+&lt;p&gt;Vivamus vitae faucibus justo. Sed nec ligula sed enim ultrices dapibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In nec libero non sem convallis pulvinar. &lt;em&gt;Morbi non porta nibh&lt;/em&gt;. Nunc accumsan tellus sit amet magna viverra, et dignissim lectus scelerisque.&lt;/p&gt;
+&lt;h2 id=&#34;sample-heading-4&#34;&gt;Sample Heading 4&lt;/h2&gt;
+&lt;p&gt;Mauris porttitor, augue a vehicula porttitor, arcu justo tincidunt felis, sed fringilla enim risus eget enim. Pellentesque sit amet lacus id tortor mattis fringilla sed id erat. Cras viverra nisi id lacus sodales, sed porttitor elit dapibus. Etiam et erat feugiat, iaculis metus ac, tempus quam.&lt;/p&gt;
+&lt;h2 id=&#34;sample-heading-5&#34;&gt;Sample Heading 5&lt;/h2&gt;
+&lt;p&gt;Suspendisse finibus, ante sit amet tincidunt euismod, ipsum sem feugiat mauris, a volutpat lacus leo at purus. Nam convallis, massa sed imperdiet accumsan, velit nisi sollicitudin arcu, vel sodales quam erat ut augue. Fusce facilisis augue ut lectus fermentum, sed placerat metus ullamcorper.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
